@@ -1,0 +1,26 @@
+"""Configurações globais da aplicação"""
+
+# Cores principais
+BG_COLOR = "#FFDD78"
+BG_WIDTH = 287
+BG_HEIGHT = 585
+
+# Cores dos componentes
+BUTTON_BG_COLOR = "#779030"
+CHAT_BG_COLOR = "#7D5D42"
+CHAT_TITLE_BG_COLOR = "#8B4513"
+CHAT_USER_MESSAGE_BG = "#0078D7"
+CHAT_OTHER_MESSAGE_BG = "#E1E1E1"
+SEND_BUTTON_COLOR = "#C2690A"
+AVATAR_BG_COLOR = "#808080"
+NAV_BAR_BG_COLOR = "#FF8C00"  # Cor laranja para a barra de navegação
+NAV_ICON_COLOR = "#808080"    # Cor cinza para os ícones
+
+# Dimensões dos componentes
+AVATAR_SIZE = 61
+BUTTON_WIDTH = 250
+BUTTON_HEIGHT = 64
+CHAT_WIDTH = 287
+CHAT_HEIGHT = 400
+CHAT_TITLE_WIDTH = 200
+CHAT_TITLE_HEIGHT = 40
